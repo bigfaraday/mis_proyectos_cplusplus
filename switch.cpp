@@ -4,7 +4,7 @@
 
 int main()
 {
-
+/*
     int mes;
     std::cout << "ingrese un numero del 1 al 12: ";
     std::cin >> mes;
@@ -50,7 +50,7 @@ int main()
     default: // default es el equivalente al else, si no se cumple ningun case entonces se ejecuta lo que esta en default
         std::cout << "solo ingrese un numero del 1 al 12";
     }
-    /*
+*/    
         // ejemplo 2
         char calificacion;
 
@@ -74,6 +74,6 @@ int main()
         default:
             std::cout << "ingrese solo las letras A B C F";
         }
-    */
+    
     return 0;
 }
