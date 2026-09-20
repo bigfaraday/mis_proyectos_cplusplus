@@ -1,0 +1,19 @@
+Seleccionar la misma palabra del codigo al mismo tiempo
+    ctrl + shift + L
+
+Comentar una linea c++
+    ctrl + / (la tecla a lado de shift)
+
+Comentar seccion de codigo /* */
+    Primero pintar las lineas que queramos comentar y luego alt + shift + A
+
+Comentar seccion de codigo con //
+    Primero pintar las lineas que queramos comentar y luego ctrl K y luego ctrl C
+
+Ejecutar el codigo
+    ctrl + alt + N
+
+Pintar (seleccionar) una linea hasta el final
+    fn + shift + flecha derecha
+o tambien
+    ctrl + L
