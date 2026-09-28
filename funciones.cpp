@@ -7,7 +7,7 @@ void felizCumpleanos(std::string name, int edad, double torta); // declaramos an
 int main()
 {
     std::string nombre = "dan"; // es una variable local que solo existe dentro de la funcion main, no se puede acceder desde otra funcion
-    int edad = 20;
+    int edad = 20;              // estas variables las enviamos como parametro a la funcion felizCumpleanos que invocamos abajito
     double torta = 0.5;
 
     felizCumpleanos(nombre, edad, torta); // invocamos la funcion felizCumpleanos y le pasamos como argumentos las variables nombre, edad y torta
